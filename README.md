@@ -13,4 +13,4 @@ This server is in maintenance, check soon to enjoy it!
 
 <br>
 
-<p align=center>Developed by Alejandro Chavez, 2023.</p>
+Developed by Alejandro Chavez, 2023.
